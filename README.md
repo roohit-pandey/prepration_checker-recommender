@@ -90,4 +90,4 @@ This project is a tool that helps students get ready for job interviews. It asks
 
 ---
 
-This Placement Preparation Helper was made for a school project where we had to make something on our own to show that we can solve problems and write code.
+This Placement Preparation Helper was made for a project where we had to make something on our own to show that we can solve problems and write code.
